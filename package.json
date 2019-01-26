@@ -23,7 +23,7 @@
     "cross-env": "^5.1.4",
     "eslint": "^5.0.0",
     "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-config-prettier": "^3.0.0",
+    "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-flowtype": "^3.0.0",
     "eslint-plugin-import": "^2.10.0",
     "flow-bin": "^0.91.0",
