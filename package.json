@@ -21,7 +21,7 @@
     "babel-jest": "^24.0.0",
     "builtin-modules": "^3.0.0",
     "cross-env": "^5.1.4",
-    "eslint": "^5.0.0",
+    "eslint": "^6.0.0",
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-config-prettier": "^5.0.0",
     "eslint-plugin-flowtype": "^3.0.0",
