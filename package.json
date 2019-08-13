@@ -7,7 +7,7 @@
     "url": "https://github.com/wtgtybhertgeghgtwtg/sole-entry/issues"
   },
   "dependencies": {
-    "isobject": "^3.0.1"
+    "isobject": "^4.0.0"
   },
   "description": "Get the sole entry of an object.",
   "devDependencies": {
